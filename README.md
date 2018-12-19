@@ -1,0 +1,2 @@
+# distributed-evolutionary-ml
+A tool for experimenting with evolutionary optimization methods for machine learning algorithms, by distributing the workload over a large number of compute nodes on the IBM Cloud. For now, it only includes an implementation of [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567).
